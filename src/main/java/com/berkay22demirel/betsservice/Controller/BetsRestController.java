@@ -1,4 +1,4 @@
-package com.berkay22demirel.betsservice;
+package com.berkay22demirel.betsservice.Controller;
 
 import com.berkay22demirel.betsservice.Model.Match;
 import org.springframework.web.bind.annotation.PathVariable;
